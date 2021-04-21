@@ -65,19 +65,30 @@ body {
 form{
   padding: 20px;
 }
+::placeholder {
+  color: #fff;
+}
 input[type='text']{
   width: 100%;
-  padding: 10px;
+  padding: 15px 10px;
   box-sizing: border-box;
   margin: 6px 0;
-  background: #3c1f3c;
+  background: #60A5FA;
   color: #fff;
   border: 0;
+  border-radius: 5px;
 }
 input[type='submit']{
   margin: 10px auto;
-  background: #eee;
+  background: #DB2777;
+  color: #fff;
   border: 0;
-  padding: 6px 20px;
+  border-radius: 5px;
+  padding: 10px 20px;
   display: block;
+}
+input[type='submit']:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: ease-in-out 400ms;
 }
