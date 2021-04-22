@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7c0820a9-5227-44a5-bccc-3203585104e9/deploy-status)](https://app.netlify.com/sites/mctechie-booklist/deploys)
+
 # Techie Reading List
 
 > A **McTechie** creation 👨‍🎨✨
